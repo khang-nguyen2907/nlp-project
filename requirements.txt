@@ -1,0 +1,13 @@
+transformers[torch]
+sentencepiece
+datasets
+sacrebleu
+evaluate
+rouge_score
+py7zr
+nltk
+tqdm 
+PyYAML
+gradio
+uvicorn
+-e .

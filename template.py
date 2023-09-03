@@ -24,7 +24,8 @@ list_of_files = [
     "main.py", 
     "Dockerfile", 
     "requirements.txt", 
-    "research/trials.ipynb"
+    "research/trials.ipynb", 
+    "setup.py"
 ]
 
 for file in list_of_files:
