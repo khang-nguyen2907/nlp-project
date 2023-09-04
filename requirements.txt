@@ -1,4 +1,5 @@
 transformers[torch]
+accelerate
 sentencepiece
 datasets
 sacrebleu
@@ -12,4 +13,5 @@ gradio
 uvicorn
 python-box
 ensure
+protobuf
 -e .
